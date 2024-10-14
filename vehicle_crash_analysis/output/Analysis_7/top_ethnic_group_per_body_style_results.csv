@@ -1,0 +1,18 @@
+                      VEH_BODY_STYL_ID PRSN_ETHNICITY_ID  counts
+5                            AMBULANCE             WHITE      97
+9                                  BUS          HISPANIC     391
+17                      FARM EQUIPMENT             WHITE      63
+24                          FIRE TRUCK             WHITE     112
+31                          MOTORCYCLE             WHITE     848
+34   NEV-NEIGHBORHOOD ELECTRIC VEHICLE             WHITE      10
+42       OTHER  (EXPLAIN IN NARRATIVE)             WHITE     459
+50               PASSENGER CAR, 2-DOOR             WHITE    9877
+58               PASSENGER CAR, 4-DOOR             WHITE   58312
+66                              PICKUP             WHITE   38609
+73                    POLICE CAR/TRUCK             WHITE     366
+75                   POLICE MOTORCYCLE          HISPANIC       3
+84               SPORT UTILITY VEHICLE             WHITE   33902
+92                               TRUCK             WHITE    4204
+100                      TRUCK TRACTOR             WHITE    5815
+108                                VAN             WHITE    5291
+114                  YELLOW SCHOOL BUS             WHITE     264
